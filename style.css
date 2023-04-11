@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color:black
+}
+
+h1 {
+  color: orangle;
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 100px;
+}
+
+p {
+  font-family: Brush Script MT;
+  font-size: 100px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 50%;
+}
