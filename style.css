@@ -27,6 +27,8 @@ p {
   margin-left: auto;
   margin-top: -100px;
   margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   width: 50%;
   opacity: 50%;
   border-radius: 50%;
